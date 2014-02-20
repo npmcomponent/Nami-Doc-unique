@@ -3,7 +3,7 @@ var contains
 try {
   contains = require('contains-component')
 } catch (e) {
-  contains = require('contains')
+  contains = require('Nami-Doc-contains')
 }
 
 /**

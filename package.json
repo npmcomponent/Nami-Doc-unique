@@ -1,13 +1,10 @@
 {
-  "name": "unique-component",
+  "name": "nami-doc-unique",
+  "description": "returns a new array without duplicates",
   "version": "1.0.0",
-  "devDependencies": {
-    "mocha": "*",
-    "chai": "*",
-    "sourcegraph": "~0.3.2",
-    "bigfile": "~0.2.1"
-  },
+  "keywords": [],
   "dependencies": {
-    "contains-component": "1.0.0"
-  }
+    "Nami-Doc-contains": "git://github.com/npmcomponent/Nami-Doc-contains.git"
+  },
+  "license": "MIT"
 }
